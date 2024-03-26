@@ -1,5 +1,7 @@
 export default function TheBay() {
     return (
-        <p>Welcome to The Bay!</p>
+        <div>
+          <h1>Welcome to The Bay!</h1>
+        </div>
     )
 }
