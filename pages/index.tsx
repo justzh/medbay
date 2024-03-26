@@ -21,10 +21,8 @@ export default function Home() {
 
         <div className={styles.grid}>
           <Link href="/thebay">
-            <a className={styles.card}>
               <h2>The Bay &rarr;</h2>
               <p>Get your medical questions answered!</p>
-            </a>
           </Link>
         </div>
       </main>
